@@ -1,0 +1,17 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- common part-->
+    <dimen name="text_size">16sp</dimen>
+    <dimen name="activity_infopreview_top">32dp</dimen>
+    <dimen name="between_views_padding">16dp</dimen>
+    <dimen name="inputsize">64dp</dimen>
+    <!-- main form -->
+    <dimen name="mainformm_round_button">110dp</dimen>
+    <dimen name="mainform_round_button_camera_padding">16dp</dimen>
+    <!-- preview form-->
+    <dimen name="infopreview_photo_size">200dp</dimen>
+    <dimen name="infopreview_icon_padding">16dp</dimen>
+    <dimen name="infopreview_icon_size">40dp</dimen>
+</resources>

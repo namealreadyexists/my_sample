@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="package_name">com.example.my.my_sample</string>
+    <!-- buttons -->
+    <string name="button_view">View</string>
+    <string name="button_send_by_email">send by email</string>
+    <!-- text -->
+    <string name="textview_email">Email</string>
+    <string name="textview_phone">Phone</string>
+    <string name="textview_password">Password</string>
+    <string name="textview_outof">/</string>
+    <string name="mail_subject_add">данные анкеты</string>
+    <string name="mail_body_email">Email</string>
+    <string name="mail_body_phone">Phone</string>
+    <string name="error_email">Error: wrong e-mail address</string>
+    <string name="error_help">invalid</string>
+    <string name="error_phone">Error: wrong phone number</string>
+    <string name="error_password">Error: minimum 6 characters (letters and numbers)</string>
+</resources>
